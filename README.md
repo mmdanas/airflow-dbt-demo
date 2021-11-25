@@ -24,4 +24,4 @@ run *before* the Airflow DAG is triggered.
 - Each DAG runs a `dbt_seed` task at the beginning that loads sample data into the database. This is simply for the purpose of this demo.
 
 [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
-https://forthebadge.com/images/badges/made-with-python.svg
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
